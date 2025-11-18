@@ -1,6 +1,6 @@
 # Debt Management System By Z.W.Y
 
-[ZH Taiwan] [EN]
+[ZH Taiwan](README.md) [EN]
 
 --Latest version V1.5.0-- //Local application
 
