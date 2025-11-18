@@ -1,5 +1,5 @@
 --ZH Taiwan--
-# 債務管理系統 V1.5.0 By Z.W.Y 
+# 債務管理系統 By Z.W.Y 
 
 --最新版本V1.5.0-- //本地端應用
 
@@ -27,7 +27,7 @@ E-MAIL zheng.wan.yi.kavin@gmail.com
 !!本程式禁止營利及商業用途!!
 
 --EN--
-# Debt Management System V1.5.0 By Z.W.Y
+# Debt Management System By Z.W.Y
 
 --Latest version V1.5.0-- //Local application
 
